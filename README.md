@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 📋 Executive Summary
 
 This research investigates the critical relationship between **Environmental, Social, and Governance (ESG)** factors and corporate financial performance among Indian public limited companies. Using data from 96 companies listed on the Sustainalytics database, this study provides empirical evidence that strong ESG performance enhances financial returns.
@@ -20,15 +18,6 @@ This research investigates the critical relationship between **Environmental, So
 - **✅ Positive Correlation**: Companies with higher ESG scores demonstrate better financial performance
 - **🏢 96 Companies**: Analyzed from NSE-listed firms based on market capitalization
 - **📊 Statistical Significance**: P-value - 0.022
----
-
-## 📄 Full Research Paper
-
-<div align="center">
-
-### 📑 **[Access Complete Research Paper on Google Drive](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
-
-*Click above to view the full 39-page research document with detailed analysis, complete methodology, and comprehensive findings*
 
 </div>
 
@@ -268,6 +257,17 @@ Special thanks to:
 | Analysis Period | 2022-2023 |
 
 </div>
+
+---
+
+## 📄 Research Paper
+
+<div>
+
+#### 📑 **[Access the paper here](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
+
+</div>
+
 ---
 
 ### 🔗 Related Resources
