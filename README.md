@@ -270,6 +270,7 @@ Special thanks to:
 
 </div>
 
+---
 
 ### 🔗 Related Resources
 
