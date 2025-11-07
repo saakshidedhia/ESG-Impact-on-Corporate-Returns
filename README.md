@@ -61,7 +61,9 @@ This research investigates the critical relationship between **Environmental, So
 6. [Conclusions](#conclusions)
 7. [Future Research](#future-research)
 8. [References](#references)
-9. [Full Paper Access](#full-research-paper)
+9. [Research Paper Access](#research-paper-access)
+10. [Repository Structure](#repository-structure)
+11. [Contributing](#contributing)
 
 ---
 
@@ -241,6 +243,27 @@ Negative Impact (29%) █████████
 4. Hill, J. (2020). Environmental, Social, and Governance (ESG) Investing: A Balanced Analysis of the Theory and Practice of a Sustainable Portfolio. Academic Press.
 
 5. Henisz, W., Koller, T., & Nuttall, R. (2019). Five ways that ESG creates value. *McKinsey Quarterly*.
+
+---
+
+## 📄 Research Paper Access
+
+<div align="center">
+
+### **Full Research Document**
+
+[![View Research Paper](https://img.shields.io/badge/📑_Full_Research_Paper-View_on_Google_Drive-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)
+
+**[Click Here to Access the Complete 39-Page Research Paper](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
+
+*This link provides access to the full academic paper including:*
+- Detailed Literature Review
+- Complete Methodology
+- Full Statistical Analysis
+- All Data Tables and Figures
+- Comprehensive Bibliography
+
+</div>
 
 ---
 
