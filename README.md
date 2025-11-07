@@ -1,12 +1,12 @@
-# 📊 The Impact of ESG on Corporate Financial Performance
-### *A Comprehensive Study of Indian Companies*
+# 📊 Research Paper - The Impact of ESG on Corporate Financial Performance
+### *An Empirical Research on Indian Companies*
 
+#### ~ Independent Research by Saakshi Dedhia
+  
 <div align="center">
 
 ![ESG](https://img.shields.io/badge/ESG-Research-green)
-![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Year](https://img.shields.io/badge/Year-2022--2023-blue)
-![Institution](https://img.shields.io/badge/Institution-Mithibai%20College-orange)
 
 </div>
 
@@ -18,20 +18,8 @@ This research investigates the critical relationship between **Environmental, So
 
 ### 🎯 Key Findings
 - **✅ Positive Correlation**: Companies with higher ESG scores demonstrate better financial performance
-- **📈 23.28% Correlation**: Between ESG scores and Profit After Tax (PAT)
 - **🏢 96 Companies**: Analyzed from NSE-listed firms based on market capitalization
-- **📊 Statistical Significance**: P-value of 0.022 confirms the relationship
-
----
-
-## 👩‍🎓 Author Information
-
-**Researcher:** Saakshi Dedhia  
-**Degree:** Bachelor of Arts (Economics), Semester V  
-**Institution:** Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)  
-**Location:** Vile Parle (W), Mumbai - 400056  
-**Supervisor:** Ms. Megha Pai, Faculty, Department of Economics  
-**Academic Year:** 2022-2023
+- **📊 Statistical Significance**: P-value - 0.022
 
 ---
 
@@ -213,16 +201,34 @@ Negative Impact (29%) █████████
 
 5. Henisz, W., Koller, T., & Nuttall, R. (2019). Five ways that ESG creates value. *McKinsey Quarterly*.
 
+---
+
+## 📂 Repository Structure
+
+```
+ESG-Research-Project/
+│
+├── 📄 README.md                 # This file
+├── 📊 Data/
+│   ├── ESG_Scores.xlsx         # Company ESG scores
+│   └── Financial_Metrics.xlsx  # PAT, ROA, EV data
+├── 📈 Analysis/
+│   ├── Correlation_Analysis.xlsx
+│   └── Regression_Results.xlsx
+├── 📑 Documentation/
+│   └── Full_Research_Paper.pdf
+└── 📊 Visualizations/
+    ├── Scatter_Plots/
+    └── Correlation_Matrix/
+```
 
 ---
 
-## 🤝 Contributing
+## 🤝 Questions
 
-This research is part of an academic submission. For questions, collaboration, or further research opportunities, please contact:
+For questions, collaboration, or further research opportunities, please contact:
 
-📧 **Email**: [Contact through Mithibai College]  
-🏛️ **Institution**: Mithibai College, Mumbai  
-📍 **Department**: Economics
+📧 **Email**: sakshidedhia07@gmail.com
 
 ---
 
