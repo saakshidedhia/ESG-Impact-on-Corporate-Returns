@@ -1,26 +1,12 @@
-# 📊 The Impact of ESG on Corporate Financial Performance
-### *A Comprehensive Study of Indian Companies*
+# 📊 Research Paper - The Impact of ESG on Corporate Financial Performance
+### *An Empirical Research on Indian Companies*
 
+#### ~ Independent Research by Saakshi Dedhia
+  
 <div align="center">
-
-[![Research Paper](https://img.shields.io/badge/📄_Research_Paper-View_on_Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)
 
 ![ESG](https://img.shields.io/badge/ESG-Research-green)
-![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Year](https://img.shields.io/badge/Year-2022--2023-blue)
-![Institution](https://img.shields.io/badge/Institution-Mithibai%20College-orange)
-![Pages](https://img.shields.io/badge/Pages-39-purple)
-
-</div>
-
----
-
-## 📑 Access Full Research
-
-<div align="center">
-
-### **[📄 View Complete Research Paper (39 pages)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
-*Full academic paper with detailed methodology, data analysis, and comprehensive findings*
 
 </div>
 
@@ -32,26 +18,12 @@ This research investigates the critical relationship between **Environmental, So
 
 ### 🎯 Key Findings
 - **✅ Positive Correlation**: Companies with higher ESG scores demonstrate better financial performance
-- **📈 23.28% Correlation**: Between ESG scores and Profit After Tax (PAT)
 - **🏢 96 Companies**: Analyzed from NSE-listed firms based on market capitalization
-- **📊 Statistical Significance**: P-value of 0.022 confirms the relationship
-
----
-
-## 👩‍🎓 Author Information
-
-**Researcher:** Saakshi Dedhia  
-**Degree:** Bachelor of Arts (Economics), Semester V  
-**Institution:** Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics (Autonomous)  
-**Location:** Vile Parle (W), Mumbai - 400056  
-**Supervisor:** Ms. Megha Pai, Faculty, Department of Economics  
-**Academic Year:** 2022-2023
+- **📊 Statistical Significance**: P-value - 0.022
 
 ---
 
 ## 📚 Table of Contents
-
-### 🔗 **[Access Full Research Paper (PDF)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
 
 1. [Introduction](#introduction)
 2. [Research Objectives](#research-objectives)
@@ -61,9 +33,6 @@ This research investigates the critical relationship between **Environmental, So
 6. [Conclusions](#conclusions)
 7. [Future Research](#future-research)
 8. [References](#references)
-9. [Research Paper Access](#research-paper-access)
-10. [Repository Structure](#repository-structure)
-11. [Contributing](#contributing)
 
 ---
 
@@ -220,18 +189,6 @@ Negative Impact (29%) █████████
 
 ---
 
-## 📄 Full Research Paper
-
-<div align="center">
-
-### 📑 **[Access Complete Research Paper on Google Drive](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
-
-*Click above to view the full 39-page research document with detailed analysis, complete methodology, and comprehensive findings*
-
-</div>
-
----
-
 ## 📖 Key References
 
 1. Dalal, K. K., & Thaker, N. (2019). ESG and corporate financial performance: A panel study of Indian companies. *IUP Journal of Corporate Governance*, 18(1), 44–59.
@@ -244,61 +201,11 @@ Negative Impact (29%) █████████
 
 5. Henisz, W., Koller, T., & Nuttall, R. (2019). Five ways that ESG creates value. *McKinsey Quarterly*.
 
----
+## 🤝 Questions
 
-## 📄 Research Paper Access
+For questions, collaboration, or further research opportunities, please contact:
 
-<div align="center">
-
-### **Full Research Document**
-
-[![View Research Paper](https://img.shields.io/badge/📑_Full_Research_Paper-View_on_Google_Drive-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)
-
-**[Click Here to Access the Complete 39-Page Research Paper](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
-
-*This link provides access to the full academic paper including:*
-- Detailed Literature Review
-- Complete Methodology
-- Full Statistical Analysis
-- All Data Tables and Figures
-- Comprehensive Bibliography
-
-</div>
-
----
-
-## 📂 Repository Structure
-
-```
-ESG-Research-Project/
-│
-├── 📄 README.md                 # This file
-├── 🔗 Research_Paper/
-│   └── Full_Paper.pdf          # [View on Google Drive](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)
-├── 📊 Data/
-│   ├── ESG_Scores.xlsx         # Company ESG scores
-│   └── Financial_Metrics.xlsx  # PAT, ROA, EV data
-├── 📈 Analysis/
-│   ├── Correlation_Analysis.xlsx
-│   └── Regression_Results.xlsx
-├── 📑 Documentation/
-│   └── Supporting_Documents/
-└── 📊 Visualizations/
-    ├── Scatter_Plots/
-    └── Correlation_Matrix/
-```
-
-### 📝 **[Download Full Research Paper (PDF)](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
-
----
-
-## 🤝 Contributing
-
-This research is part of an academic submission. For questions, collaboration, or further research opportunities, please contact:
-
-📧 **Email**: [Contact through Mithibai College]  
-🏛️ **Institution**: Mithibai College, Mumbai  
-📍 **Department**: Economics
+📧 **Email**: sakshidedhia07@gmail.com
 
 ---
 
@@ -352,6 +259,17 @@ Special thanks to:
 </div>
 
 ---
+
+## 📄 Full Research Paper
+
+<div align="center">
+
+### 📑 **[Access Complete Research Paper on Google Drive](https://drive.google.com/file/d/1rnt7EV-bz3qYfq5sFmnKKHS2Ye6vKWkt/view)**
+
+*Click above to view the full 39-page research document with detailed analysis, complete methodology, and comprehensive findings*
+
+</div>
+
 
 ### 🔗 Related Resources
 
