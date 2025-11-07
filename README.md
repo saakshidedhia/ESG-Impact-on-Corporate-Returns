@@ -201,29 +201,6 @@ Negative Impact (29%) █████████
 
 5. Henisz, W., Koller, T., & Nuttall, R. (2019). Five ways that ESG creates value. *McKinsey Quarterly*.
 
----
-
-## 📂 Repository Structure
-
-```
-ESG-Research-Project/
-│
-├── 📄 README.md                 # This file
-├── 📊 Data/
-│   ├── ESG_Scores.xlsx         # Company ESG scores
-│   └── Financial_Metrics.xlsx  # PAT, ROA, EV data
-├── 📈 Analysis/
-│   ├── Correlation_Analysis.xlsx
-│   └── Regression_Results.xlsx
-├── 📑 Documentation/
-│   └── Full_Research_Paper.pdf
-└── 📊 Visualizations/
-    ├── Scatter_Plots/
-    └── Correlation_Matrix/
-```
-
----
-
 ## 🤝 Questions
 
 For questions, collaboration, or further research opportunities, please contact:
